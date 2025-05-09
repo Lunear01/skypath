@@ -46,9 +46,7 @@ Existing flight search tools are often too restricted, overly complex, or lack e
   - No Admission
  
 # Running SkyPath
-Download the submitted files from MarkUs. (Included is data.zip, which contains the three json files that SkyPath needs. 
-Extract the contents of data.zip into the same folder as main.py.
-Open main.py in PyCharm.
-Import all libraries listed in requirements.txt.
-Run main.py. The python console should prompt an input. Follow the instructions given by the program. (see Figure ?). Screenshots of the program in its different states can be found in the appendix.
-
+- Download all files. (Includeding the three json files that SkyPath needs).
+- Open main.py in your IDE.
+- Import all libraries listed in requirements.txt.
+- Run main.py. The python console should prompt an input. Follow the instructions given by the program. 
